@@ -1,4 +1,4 @@
-Asymptote-Plot-Example
+Reciprocal-Plot-Example
 ======================
 
-Asymptote function plot using Matplolib for Python.
+Reciprocal function plot using Matplolib for Python.
